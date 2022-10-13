@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CartingService
+build_property.RootNamespace = CartingService
+build_property.ProjectDir = C:\Users\Hozefa_Sadadiwala\OneDrive - EPAM\Hozefa\Assignment\.NET Mentoring Program Advanced 2022\Assignment_2_Layered_Architectures\CartingService_Task1\CartingService\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hozefa_Sadadiwala\OneDrive - EPAM\Hozefa\Assignment\.NET Mentoring Program Advanced 2022\Assignment_2_Layered_Architectures\CartingService_Task1\CartingService
+build_property._RazorSourceGeneratorDebug = 
